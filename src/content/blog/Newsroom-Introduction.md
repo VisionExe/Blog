@@ -4,7 +4,7 @@ description: "Announcing TON Newsroom, our new site dedicated to keep you up-to-
 isPublic: true
 type: "Release"
 pubDate: "August 29, 2023"
-heroImage: "/assets/images/newsroom.jpg"
+heroImage: "/assets/images/Blog.jpg"
 ---
 
 Hello World!
